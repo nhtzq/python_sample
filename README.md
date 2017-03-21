@@ -2,7 +2,7 @@
 My Python sample codes
 
 ---
-JackTan_Python_SampleCode_ReviewCollection.py
+## JackTan_Python_SampleCode_ReviewCollection.py
 
 Collect reviews of a product from Amazon. Append the reviews to a file called "reviews.txt". The file should include the 
 following TAB-separated columns:
