@@ -1,7 +1,7 @@
 # python_sample
 My Python sample codes
 
--------------------------------------------------------------
+---
 JackTan_Python_SampleCode_ReviewCollection.py
 
 Collect reviews of a product from Amazon. Append the reviews to a file called "reviews.txt". The file should include the 
@@ -14,8 +14,5 @@ column 4: the FULL review text, exactly as it appears on the website
 
 You may enter any product url onto the console after running the code. 
 
-Why is this line so freakin big?
--------------------------------------------------------------
-
-
 :bowtie:
+---
