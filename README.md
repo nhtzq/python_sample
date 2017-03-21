@@ -12,5 +12,7 @@ column 2: the review's title
 column 3: the review's date of submission, as it appears on the website
 column 4: the FULL review text, exactly as it appears on the website
 
-You may enter any product url onto the console after running the code.
+You may enter any product url onto the console after running the code. 
+
+Why is this line so freakin big?
 -------------------------------------------------------------
